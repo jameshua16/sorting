@@ -30,7 +30,7 @@ export default {
 <style>
 .divs{
     height: 300px;
-    width: 40px;
+    width: 80px;
     background-color: lightblue;
     margin:1px;
 }
