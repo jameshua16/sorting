@@ -13,7 +13,7 @@ export default {
     name:'Sort',
     data(){
         return{
-            amount:20,
+            amount:40,
             divLength:[]
         }
     },
