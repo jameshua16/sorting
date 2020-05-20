@@ -12,7 +12,7 @@
     export default {
         name: 'Sort',
         data() {
-            return {amount: 25, divLength: [], ret: {}}
+            return {amount: 15, divLength: [], ret: {}}
         },
         components: {
             Div
